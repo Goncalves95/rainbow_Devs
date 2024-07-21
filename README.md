@@ -17,7 +17,7 @@ The source was set to 'Deploy from Branch', the main branch was selected and the
 
 #### _(please note, your team must also include the deployed links in the usual submission in Hackapp)_
 
-The project is deployed and can be accessed at [http://your-deployed-link.com](http://your-deployed-link.com).
+The project is deployed and can be accessed at [https://goncalves95.github.io/rainbow_Devs/](https://goncalves95.github.io/rainbow_Devs/).
 
 ## Criteria
 
