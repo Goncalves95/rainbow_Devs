@@ -11,6 +11,10 @@
 
 ## Deployment
 
+Pages was selected from the settings tab of the GitHub repo.
+
+The source was set to 'Deploy from Branch', the main branch was selected and the folder was set to / (root). The save button was clicked.
+
 #### _(please note, your team must also include the deployed links in the usual submission in Hackapp)_
 
 The project is deployed and can be accessed at [http://your-deployed-link.com](http://your-deployed-link.com).
