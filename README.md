@@ -73,3 +73,4 @@ HTML, CSS and GitHub were used in the project.
 ## Credits
 
 https://www.verywellmind.com/what-the-colors-of-the-new-pride-flag-mean-5189173
+git
