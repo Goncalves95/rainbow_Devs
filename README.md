@@ -24,10 +24,22 @@ The project is deployed and can be accessed at [https://goncalves95.github.io/ra
 In this section, we will briefly discuss how our team addressed the applicable criteria:
 
 - 🏳️‍🌈 The project demonstrates an impact on the LGBTQIA+ community
+
+The project has useful links and information for the LGBTQIA+ community.
+
 - 🏳️‍🌈 The project is realistic and has real world value
+
+The project has links to real organisations and has accurate information.
+
 - 🏳️‍🌈 The project has excellent design and layout
+
+The design is very colorful and uses the colors from the rainbow flag.
+
 - 🏳️‍🌈 The project is presented to the judges in a professional manner
+
 - 🏳️‍🌈 The project demonstrates innovation and creativity
+
+
 
 # ABOUT SUBMISSION
 
