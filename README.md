@@ -1,5 +1,5 @@
 ![Pride Link logo](assets/img/logo.png)
-<h1 align="center">:ci-pride: Pride Link :ci-pride:</h1>
+<h1 align="center">🏳️‍🌈 🏳️‍🌈  Pride Link 🏳️‍🌈 🏳️‍🌈 </h1>
 <h2 align="center"> BY: Rainbow_DEV </h2>
 <br>
 <h1 align="center"><strong>🏳️‍🌈 Proud Coders: July 2024 Hackathon 🏳️‍🌈</strong>
