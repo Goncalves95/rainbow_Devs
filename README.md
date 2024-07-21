@@ -40,25 +40,35 @@ The design is very colorful and uses the colors from the rainbow flag.
 - 🏳️‍🌈 The project demonstrates innovation and creativity
 
 
-
 # ABOUT SUBMISSION
 
 ## Intro
 
-One or two paragraphs providing an overview of our project
+The project is a resource hub for the LGBTQIA+ community. It has a colorful design and links and information about the links.
 
 ## Goal
 
 The goal section provides a concise summary of the main objective or purpose of the project or software described in this README. It addresses the following aspects:
 
 - ➡️ Problem Statement
+
+Users are looking for a website where they can find useful, relevant links in one place.
+
 - ➡️ Objective(s)
+
+The objective of the website is to provide information and useful links for the LGBTQIA+ community.
+
 - ➡️ Target Audience
+
+Members of the LGBTQIA+ community who are trying to find out more information and who are trying to find support groups.
+
 - ➡️ Benefits
+
+The website has a is very colorful and has a great design. It provides userful information and links.
 
 ## Tech
 
-In the tech section, we provide information about the technology stack, dependencies, and any technical details related to the project.
+HTML, CSS and GitHub were used in the project.
 
 ## Credits
 
