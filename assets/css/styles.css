@@ -121,15 +121,18 @@ body {
 }
 
 .link-1:hover {
-  color: #FF0000 !important; /* red */
+  color: #FF0000 !important;
+  /* red */
 }
 
 .link-2:hover {
-  color: #FFA07A !important; /* orange */
+  color: #FFA07A !important;
+  /* orange */
 }
 
 .link-3:hover {
-  color: #FFD700 !important; /* yellow */
+  color: #FFD700 !important;
+  /* yellow */
 }
 
 /* LOGO RAINBOW colors*/
@@ -12965,7 +12968,9 @@ body {
 /* custom css for flag */
 .flag-container {
   position: relative;
-  margin-top: 88px;
+  overflow: hidden;
+  padding-top: 88px;
+  height: 100vh;
 }
 
 .band {
@@ -13095,10 +13100,6 @@ body {
   position: relative;
   width: 100%;
   height: auto;
-  /* min-height: 35rem;
-  padding: 15rem 0; */
-  /* background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/bg-masthead.jpg"); */
-
 }
 
 
